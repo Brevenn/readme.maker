@@ -10,8 +10,7 @@
 
 ### *USER STORY:*
 
-![User Story](/img/user.story.m9.png)
-
+<img src="/img/user.story.m9.png" alt="User Story" title="User Story">
 #
 
 ### *Demonstration of Application*
