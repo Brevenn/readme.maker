@@ -29,6 +29,26 @@ const questions = [
         type: 'list',
         choices: ['BSD 3', 'MIT', 'APACHE 2.0', 'FPA', 'GNU GPL 3.0'],
         name: 'license' 
+    },
+    {
+        message: 'Provide the Contribution reqs for your repository.',
+        type: 'input',
+        name: 'contribution' 
+    },
+    {
+        message: 'Provide the Testing reqs for your repository.',
+        type: 'input',
+        name: 'testing' 
+    },
+    {
+        message: 'Provide your Github username for future contact.',
+        type: 'input',
+        name: 'github' 
+    },
+    {
+        message: 'Provide your Email for future contact.',
+        type: 'input',
+        name: 'email' 
     }
 ]
 
